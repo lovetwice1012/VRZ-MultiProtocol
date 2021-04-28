@@ -1,3 +1,3 @@
 # pmmpMultiProtocol
 Join with any version !  
-# ※Don't use this plugin. This may couse server crash.
+# ※please use VRZDevs/VRZ-MultiProtocol. I removed crash protection system from his plugin.
